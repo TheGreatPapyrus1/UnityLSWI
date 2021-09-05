@@ -1,0 +1,29 @@
+
+√Log in
+	√Make the website secure
+		√SSL
+
+Choose theme
+
+Homepage
+
+About page
+
+Contact page
+	Instagram link
+	Picture
+	Form
+
+Other pages
+	Video game links
+	Embedded videos
+
+Make a Menu
+
+Header
+
+Newsletter
+	In the top right
+	Signup
+
+
